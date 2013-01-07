@@ -1,0 +1,16 @@
+{
+    "name": "observable"
+  , "version": "0.0.1"
+  , "description": "A tutorial for tddjs"
+  , "keywords": ["test", "tutorial"]
+  , "author": "Manuel"
+  , "main": "index"
+  , "engines": { "node": ">= 0.4.x < 0.8.2" }
+  , "scripts": {
+    "test": "mocha -R spec"
+  }
+  , "devDependencies": {
+    	"mocha": "0.3.x",
+    	"require": "0.4.9"
+  }
+}
